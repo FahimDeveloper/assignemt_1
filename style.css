@@ -8,8 +8,28 @@ body {
     font-family: 'Work Sans', sans-serif;
 }
 
+section {
+    padding: 50px 0;
+}
+
+h2 {
+    font-size: 40px;
+    font-weight: 700;
+    color: #151414;
+}
+
+h3 {
+    font-size: 30px;
+    color: #151414;
+}
+
+article {
+    color: #444343;
+}
+
 .container {
     width: 1140px;
+    margin: auto;
 }
 
 /* avarage_css end */
@@ -28,6 +48,8 @@ body {
 /* failures_area css end */
 
 /* success_area css start */
+
+
 /* success_area css end */
 
 /* plans_area css start */
