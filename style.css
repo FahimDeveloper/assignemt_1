@@ -1,0 +1,40 @@
+/* avarage_css start */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Work Sans', sans-serif;
+}
+
+.container {
+    width: 1140px;
+}
+
+/* avarage_css end */
+
+/* header_area css start */
+.header_area {
+    height: 100vh;
+    background-image: url("images/banner/banner3.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* header_area css end */
+
+/* failures_area css start */
+/* failures_area css end */
+
+/* success_area css start */
+/* success_area css end */
+
+/* plans_area css start */
+/* plans_area css end */
+
+/* call_to_action_area css start */
+/* call_to_action_area css end */
+
+/* footer_area css start */
+/* footer_area css end */
