@@ -238,6 +238,10 @@ ul {
     color: #f3f3f3;
 }
 
+.subscribe_area form input[type="email"]:focus {
+    color: #f3f3f3;
+}
+
 .subscribe_area form input[type="submit"] {
     font-size: 20px;
     text-transform: capitalize;
